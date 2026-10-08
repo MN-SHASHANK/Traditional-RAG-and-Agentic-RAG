@@ -1,6 +1,7 @@
 # Traditional-RAG-and-Agentic-RAG
 Implementation of Traditional RAG and Agentic RAG systems using Python, LangChain, LLMs, embeddings, vector databases, and intelligent retrieval workflows.
-# Traditional RAG and Agentic RAG
+
+
 
 This repository contains implementations of **Traditional Retrieval-Augmented Generation (RAG)** and **Agentic RAG** using Python, LangChain, vector databases, embeddings, and Google Gemini models.
 
